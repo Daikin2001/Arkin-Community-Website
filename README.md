@@ -1,6 +1,6 @@
-# AquaWebsite
-A website for my discord server Aqua Community.
+# DaikinCommmunitiesWebsite
+A website for my discord server Daikin Communities.
 
-#### Join Aqua today!
+#### Join Daikin today!
 
-https://discord.gg/8NP6NNu
+https://discord.io/daikin

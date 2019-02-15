@@ -3,4 +3,4 @@ A website for my discord server Arkin Communities.
 
 #### Join Arkin today!
 
-https://discord.io/daikin
+https://discord.io/arkin

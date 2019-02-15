@@ -1,6 +1,6 @@
-# Daikin Communities Website
-A website for my discord server Daikin Communities.
+# Arkin Communities Website
+A website for my discord server Arkin Communities.
 
-#### Join Daikin today!
+#### Join Arkin today!
 
 https://discord.io/daikin
